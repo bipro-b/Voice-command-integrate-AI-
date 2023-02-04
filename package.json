@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@alan-ai/alan-sdk-web": "github:alan-ai/alan-sdk-web",
+    "@material-ui/core": "^4.12.4",
     "@mui/material": "^5.11.0",
     "@mui/styled-engine-sc": "^5.11.0",
     "@testing-library/jest-dom": "^5.16.5",
